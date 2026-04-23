@@ -8,7 +8,7 @@ This repository is a structured and evolving knowledge base designed to support 
 
 The goal is not just to summarize the syllabus, but to build a strong conceptual foundation by combining theory, mathematical reasoning, and real-world financial intuition. Each section is curated to help learners understand how financial concepts interconnect across asset classes, markets, and decision-making frameworks.
 
-The CFA program itself is widely regarded as one of the most rigorous and respected certifications in finance, requiring disciplined preparation and a deep understanding of investment analysis, portfolio management, and ethics :contentReference[oaicite:1]{index=1}.
+The CFA program itself is widely regarded as one of the most rigorous and respected certifications in finance, requiring disciplined preparation and a deep understanding of investment analysis, portfolio management, and ethics.
 
 ---
 
